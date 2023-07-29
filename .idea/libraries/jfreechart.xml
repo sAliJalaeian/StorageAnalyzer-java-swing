@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jfreechart">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Eitaa Desktop/jfreechart" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Eitaa Desktop/jfreechart/jcommon-1.0.23/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Eitaa Desktop/jfreechart/jcommon-1.0.23/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/Eitaa Desktop/jfreechart" recursive="false" />
+  </library>
+</component>
